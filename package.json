@@ -9,13 +9,13 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "file-loader": "latest",
     "bluebird": "latest",
     "body-parser": "latest",
     "cheerio": "latest",
     "cookie-parser": "latest",
     "debug": "latest",
     "dotenv": "latest",
+    "file-loader": "latest",
     "firebase": "latest",
     "moment": "latest",
     "react": "latest",
@@ -27,7 +27,7 @@
     "redux": "latest",
     "redux-thunk": "latest",
     "stripe": "latest",
-    "superagent": "latest",
+    "superagent": "^3.5.2",
     "turbo360": "latest",
     "webpack": "latest"
   },
